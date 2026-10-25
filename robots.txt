@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /kaegoro-site/
+Disallow: /kaegoro-site/search/
+Sitemap: https://kaegoro.com/sitemap.xml
